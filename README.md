@@ -24,7 +24,6 @@ pip install -r requirements.txt
 2. Создайте в корневой папке файл ```.env``` и пропишите в нем свои данные следующим образом:  
      ```
      access_token=dhs1sdgd2ghjf3fhjf4fdjg5fghfdg6dh
-     group_id=12345
      ``` 
    
 [2]: https://dvmn.org/media/filer_public/0b/cd/0bcd3fe4-8eb9-404c-9684-e34ec03662d7/test.png "Скриншот."   
